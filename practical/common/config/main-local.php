@@ -4,7 +4,7 @@ return [
         'db' => [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=mishika.c2fjpgtysnhg.us-west-2.rds.amazonaws.com:3306;dbname=newschema',
-            'username' => 'root',
+            'username' => 'ravialmt1',
             'password' => '',
             'charset' => 'utf8',
         ],
