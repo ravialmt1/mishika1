@@ -5,7 +5,7 @@ return [
             'class' => 'yii\db\Connection',
             'dsn' => 'mysql:host=mishika.c2fjpgtysnhg.us-west-2.rds.amazonaws.com:3306;dbname=newschema',
             'username' => 'ravialmt1',
-            'password' => '',
+            'password' => 'boxer123',
             'charset' => 'utf8',
         ],
         'mailer' => [
